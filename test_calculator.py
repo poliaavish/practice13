@@ -10,7 +10,7 @@ def test_subtract():
 
 def test_addition():
     # Было: assert 1 + 1 == 2
-    assert 1 + 1 == 3  # Заведомо неверный результат
+    assert 1 + 1 == 2  # Заведомо неверный результат
 
 if __name__ == "__main__":
     test_add()
